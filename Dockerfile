@@ -20,8 +20,10 @@ LABEL authors="Amir Pourmand,George Araújo" \
 #     useradd -u $USERID -m -g $GROUPNAME $USERNAME
 
 # install system dependencies
-RUN apt-get update -y && \
-    apt-get install -y --no-install-recommends \
+RUN rm -rf /var/lib/apt/lists/* && \
+    for i in 1 2 3; do \
+      apt-get update -y && \
+      apt-get install -y --no-install-recommends \
         build-essential \
         curl \
         git \
@@ -31,13 +33,13 @@ RUN apt-get update -y && \
         nodejs \
         procps \
         python3-pip \
-        zlib1g-dev && \
-    pip --no-cache-dir install --upgrade --break-system-packages nbconvert
-
-# clean up
-RUN apt-get clean && \
-    apt-get autoremove && \
-    rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*  /tmp/*
+        zlib1g-dev && break || \
+      (echo "apt-get failed, retrying ($i/3)" && sleep 3); \
+    done && \
+    pip --no-cache-dir install --upgrade --break-system-packages nbconvert && \
+    apt-get clean && \
+    apt-get autoremove -y && \
+    rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/* /tmp/*
 
 # set the locale
 RUN sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen && \

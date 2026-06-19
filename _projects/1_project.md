@@ -2,7 +2,7 @@
 layout: page
 title: Research with Agentic AI
 description: with background image
-img: aiSmall.jpeg
+img: 
 importance: 1
 category: work
 related_publications: true

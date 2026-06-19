@@ -3,19 +3,13 @@ cv:
   label: Student
   email: getadityarai@gmail.com
   location: Buffalo Grove, IL
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Junior at Stevenson High School with a strong interest in artificial intelligence, machine learning, computer science, and STEM. Passionate about using technology, data, and mathematics to solve real-world problems, with aspirations to pursue AI and computer science through research and innovation. Outside of academics, I enjoy sports, playing guitar, and spending time with friends while continuously seeking opportunities to learn, grow, and collaborate with others.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      Link: www.linkedin.com/in/aditya-rai-220312351
 
   address:
-    street: 1155 Windbrooke Dr
     city: Buffalo Grove
     region: Illinois
     postalCode: IL 60089
@@ -23,167 +17,124 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Adlai E. Stevenson High School
+        location: Lincolnshire, IL
+        url: https://www.stevenson.edu/
+        start_date: Aug 2023
+        end_date: May 2027
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: Northwestern University
+        position: Summer High School Researcher
+        location: Evanston, IL
+        start_date: June 8, 2026
+        end_date: Oct 2026
+        summary: Currently conducting AI and machine learning research at Northwestern University, with a focus on agentic AI and AI-assisted problem solving. Collaborating on hands-on projects using GitHub, VS Code, and AI development tools, with research findings to be presented at a symposium.
+        
+      - company: Siemens
+        position: Intern
+        location: Buffalo Grove, IL
+        start_date: June 2, 2026
+        end_date: 6/30/26
+        summary: Participating in a Siemens shadowing internship, gaining exposure to both the hardware and software operations of a global technology company. Observing engineering teams and learning how software, system design, and industrial technologies work together to create real-world solutions.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: Adlai E. Stevenson High School
+        position: Math Tutor
+        location: Lincolnshire, IL
+        start_date: Sep 2025
+        summary: Providing academic support and tutoring to students in mathematics, helping them improve their understanding and performance.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: FormulaForSuccess
+        position: Math Tutor
+        location: Buffalo Grove, IL
+        start_date: Oct 2025
+        summary: Providing academic support and tutoring to students in mathematics to elementary school studnts from underprivileged areas.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Key Club 
+        position: Director of External Communications
+        location: Lincolnshire, IL
+        start_date: May 2026
+        summary: Serving as Director of External Communications for Key Club, leading outreach efforts and building partnerships with local organizations to expand volunteer opportunities. Developing skills in professional communication, leadership, and community engagement while helping connect members with meaningful service experiences.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: New Perspective
+        position: Volunteer
+        location: Long Grove, IL
+        start_date: 2024
+        summary: Volunteering at New Perspective, a senior living community, providing support and companionship to elderly residents.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Feed My Starving Children 
+        position: Volunteer
+        location: Schamburg, IL
+        start_date: 2023
+        summary: Volunteering at Feed My Starving Children, a local organization dedicated to providing food and support to underprivileged communities.
+
+      - company: Bernie's Book Bank
+        position: Volunteer
+        location: Lake Bluff, IL
+        start_date: Jan 2024
+        summary: Volunteering at Bernie's Book Bank, a local organization dedicated to providing books and educational resources to communities.
+
+
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: AP Scholar Award
+        date: 2025
+        awarding body: College Board
+        Grade Level: 10
+        Level of Recognition: National
+      - title: Green Honor Roll 
+        date: 2023/2026
+        awarding body: Adlai E. Stevenson High School
+        Grade Level: 9, 11
+        Level of Recognition: School
+      - title: Gold Honor Roll
+        date: 2024/2025
+        awarding body: Adlai E. Stevenson High School
+        Grade Level: 9,10, 11
+        Level of Recognition: School
+      - title: School Recognition Award
+        date: 2026
+        awarding body: College Board
+        Grade Level: 11
+        Level of Recognition: National
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Mathematics(Algebra, Precalculus, Calculus 1 and 2)
+      - name: Programming(Python, Java, javascript)
+      - name: Problem Solving
+      - name: Artificial Intelligence and Machine Learning
+      - name: Leadership
+      - name: Tutoring
+      - name: Community Service
+      - name: Networking
 
     Languages:
-      - name: German
+      - name: Hindi
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+      
+      - name: Spanish
+        summary: "Intermediate"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: AI and ML integration to real-world applications
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+        
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Password Enhancer
+        language: Java
+        summary: Created a password enhancer using primitive types in Java. It takes all letters the user enters for a password and replaces them with certain symbols to enhance them and make them more complex.
+      
+      - name: Traveling Student Project
+        language: JavaScript
+        summary: In this project, the task was to help a student find the best possible path to visit all the colleges on his list. I used a genetic algorithm where I made two parent tours and combined them to make a child tour which is a modified tour in order to come up with a heuristic or a good enough solution.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+   

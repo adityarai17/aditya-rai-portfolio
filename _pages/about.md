@@ -35,4 +35,4 @@ Beyond research, I serve as the Director of External Communications for Key Club
 
 Outside of academics, I enjoy music production, playing guitar, sports, and spending time with friends.
 
-In the future, I hope to pursue computer science and artificial intelligence in college while continuing research that creates meaningful real-world impact.
+In the future, I hope to pursue computer science and artificial intelligence in college while continuing research that creates meaningful real-world impact. Through my research and personal projects, I have gained experience with Python, Java, JavaScript, Git, GitHub, Docker, Jekyll, and web development. This portfolio website was built and deployed using Jekyll and GitHub Pages.
